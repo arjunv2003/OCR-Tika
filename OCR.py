@@ -166,4 +166,3 @@ output_folder = r"C:\Users\USER\Desktop\OCRs\OCR\output"   # Replace with the de
 
 # Process all CVs in the folder and save the extracted text
 process_all_cvs(cv_folder, output_folder)
-#test
